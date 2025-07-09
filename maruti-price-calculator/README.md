@@ -4,7 +4,7 @@ A React-based web app to find Maruti Suzuki car prices by selecting model, varia
 
 ## 🔗 Live Demo
 
-👉 [View on Vercel](https://maruti-price-calculator.vercel.app)
+👉 [View on Vercel](https://maruti-price-calculator-7eqbbw9zg-manvis-projects-d237f79d.vercel.app)
 
 ## 🛠️ Built With
 
